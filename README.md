@@ -3,9 +3,18 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macauli-missouri-3ab2a6272/)  
 
 
-📊 **Data Engineer | SQL | Python | Git | Spark | Databricks | AWS/Azure | ETL**  
+## 📊 Analista de Dados | SQL | Python | Estatística | Machine Learning | Visualização de Dados
 
-Atuo com **processamento, modelagem e integração de dados** para transformar informações brutas em insights valiosos. Tenho experiência com **pipelines de dados, otimização de ETL, armazenamento em nuvem e análise de grandes volumes de dados.**  
+Atuo com **análise, interpretação e comunicação de insights** para transformar dados em informações valiosas e apoiar a tomada de decisões. Tenho experiência com **análise de dados complexos, modelagem estatística, desenvolvimento de modelos de machine learning e visualização de dados para comunicar resultados.**
+
+## Habilidades
+
+* **Análise de dados complexos**: identificação de tendências e padrões em grandes volumes de dados
+* **Modelagem estatística**: desenvolvimento de modelos para prever resultados e entender relações entre variáveis
+* **Desenvolvimento de modelos de machine learning**: criação de modelos para classificar, regressar e clusterizar dados
+* **Visualização de dados**: comunicação de resultados de forma clara e eficaz para públicos não técnicos
+
+
 
 ---
 🎓 **Cursando Banco de Dados na Universidade Cruzeiro do Sul**  
