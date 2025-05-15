@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macauli-missouri-3ab2a6272/)  
 
 
-## 📊 Analista de Dados | SQL | Python | Estatística | Machine Learning | Visualização de Dados
+## 📊 Analista de Dados | Engenheiro de Dados | SQL | Python | Estatística | Machine Learning | Visualização de Dados
 
 Atuo com **análise, interpretação e comunicação de insights** para transformar dados em informações valiosas e apoiar a tomada de decisões. Tenho experiência com **análise de dados complexos, modelagem estatística, desenvolvimento de modelos de machine learning e visualização de dados para comunicar resultados.**
 
