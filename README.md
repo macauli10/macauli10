@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macauli-missouri-3ab2a6272/)  
 
-## ⚙️  Data Engineer | Big Data | AWS | Databricks | Airflow | Docker | Python | SQL | Git | Data Analyst
+## ⚙️  Data Engineer | Big Data | AWS | Databricks | Airflow | Docker | Python | SQL | Git | 
 
 Sou apaixonado por dados e tecnologia. Tenho experiência prática em **engenharia e análise de dados**, com foco em **construção de pipelines de dados, automação de processos ETL, modelagem estatística, e visualização de dados interativa**.
 
@@ -42,7 +42,3 @@ Atuo transformando dados em soluções de valor para o negócio, estruturando da
 </div>
 
 ---
-
-## 📈 Estatísticas do GitHub
-
-![Macauli's GitHub stats](https://github-readme-stats.vercel.app/api?username=macauli10&theme=algolia&show_icons=true)
